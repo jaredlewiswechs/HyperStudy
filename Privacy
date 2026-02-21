@@ -1,0 +1,94 @@
+Last Updated: February 20, 2026
+
+Our Commitment to Your Privacy
+
+HyperStudy is designed with your privacy as our top priority. We believe your study habits, questions, and learning data should remain completely private and under your control.
+
+The Simple Truth: We Collect Nothing
+
+We do not collect, transmit, store, or share any of your personal information. Period.
+
+What This Means
+
+✅ No Data Collection
+• We don't collect your name, email, or any personal information
+• We don't track what you study or how you use the app
+• We don't collect analytics or usage statistics
+• We don't use cookies, trackers, or any monitoring tools
+
+✅ Everything Stays On Your Device
+• All flashcards are stored locally on your device using SwiftData
+• Custom flashcards you create never leave your device
+• Your study progress is stored only on your device
+• No cloud sync, no external servers, no backups to our systems
+
+✅ 100% Offline AI Assistant
+• The AI Assistant uses Apple Intelligence running entirely on your device
+• Your questions are processed locally using on-device language models
+• Nothing you ask the AI is ever sent to any server
+• We never see your questions or the AI's responses
+• Apple's on-device processing ensures complete privacy
+
+✅ No Internet Connection Required
+• HyperStudy works completely offline
+• We make zero network requests
+• No internet connection means no data can be transmitted
+• You can verify this by using the app in Airplane Mode
+
+✅ No Third-Party Services
+• We don't use advertising networks
+• We don't integrate analytics services
+• We don't use crash reporting tools that send data
+• No third parties have access to any information about you
+
+What We Don't Have Access To
+
+Because everything happens on your device, we have no way to access:
+• Which flashcards you study
+• What questions you ask the AI
+• How often you use the app
+• What custom cards you create
+• Your study progress or statistics
+• Any other usage information
+
+Your Data, Your Control
+
+• Deletion: Simply delete the app to remove all data. We have no copies.
+• Portability: Your data stays on your device; you control it entirely.
+• No Account: No sign-up means no account to delete or manage.
+
+Children's Privacy
+
+HyperStudy is safe for users of all ages. Since we collect no data whatsoever, there is no personal information from anyone—including children—to protect or manage.
+
+Changes to This Policy
+
+If we ever change how we handle data (though we have no plans to), we will update this policy and the "Last Updated" date. However, our commitment to privacy is fundamental to HyperStudy.
+
+Questions?
+
+If you have questions about this privacy policy or how HyperStudy protects your privacy, please contact us at:
+
+jlewparcri@icloud.com
+⸻
+
+Technical Details for Privacy Researchers
+
+For those interested in the technical implementation of our privacy-first approach:
+
+Local Storage
+• Uses Apple's SwiftData framework for local-only persistence
+• Data stored in app's sandboxed container
+• Automatically deleted when app is uninstalled
+
+AI Processing
+• Utilizes Apple's FoundationModels framework
+• Language models run entirely on-device using Apple Silicon Neural Engine
+• No API calls to external AI services
+• Complies with Apple's on-device privacy requirements
+
+Network Activity
+• Zero network requests made by the app
+• No servers to connect to
+• No API endpoints
+• No telemetry or diagnostics sent anywhere
